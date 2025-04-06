@@ -1,0 +1,72 @@
+[
+  {
+    "time": 0,
+    "event": "arrival",
+    "customer": "Customer00"
+  },
+  {
+    "time": 0,
+    "event": "service_start",
+    "customer": "Customer00"
+  },
+  {
+    "time": 3.8595,
+    "event": "service_end",
+    "customer": "Customer00"
+  },
+  {
+    "time": 10.2006,
+    "event": "arrival",
+    "customer": "Customer01"
+  },
+  {
+    "time": 10.2006,
+    "event": "service_start",
+    "customer": "Customer01"
+  },
+  {
+    "time": 12.7265,
+    "event": "arrival",
+    "customer": "Customer02"
+  },
+  {
+    "time": 13.9003,
+    "event": "renege",
+    "customer": "Customer02"
+  },
+  {
+    "time": 23.7507,
+    "event": "service_end",
+    "customer": "Customer01"
+  },
+  {
+    "time": 34.9993,
+    "event": "arrival",
+    "customer": "Customer03"
+  },
+  {
+    "time": 34.9993,
+    "event": "service_start",
+    "customer": "Customer03"
+  },
+  {
+    "time": 37.9599,
+    "event": "service_end",
+    "customer": "Customer03"
+  },
+  {
+    "time": 40.4798,
+    "event": "arrival",
+    "customer": "Customer04"
+  },
+  {
+    "time": 40.4798,
+    "event": "service_start",
+    "customer": "Customer04"
+  },
+  {
+    "time": 43.1401,
+    "event": "service_end",
+    "customer": "Customer04"
+  }
+]
